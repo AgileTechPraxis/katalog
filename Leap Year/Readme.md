@@ -1,9 +1,6 @@
 
 ---
-
-![Kata](../kata.png)
-
----
+![](../kata.png)
 
 ## Leap Year
 
