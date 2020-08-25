@@ -1,6 +1,6 @@
 
 ---
-![](../kata.png)
+![](../../kata.png)
 
 ## Connascent Mars Rover
 
