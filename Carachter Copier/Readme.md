@@ -26,4 +26,4 @@ public interface IDestination
 }
 ```
 
-![](./picture1.jpg)
+![](picture1.jpg)
