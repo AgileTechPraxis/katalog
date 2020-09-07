@@ -26,4 +26,4 @@ public interface IDestination
 }
 ```
 
-![Class diagram](picture1.jpg)
+![Class diagram](../Picture1.jpg)
