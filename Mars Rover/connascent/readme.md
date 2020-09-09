@@ -24,7 +24,7 @@ The plateau is always 100 by 100 where (0,0) is the bottom left corner.
 
 The input comes in form of packages and it is always formed by 2 streams of data: the initial position and the list of moves.
 
-The position is a sequence of 4 packages containing the following strings: `P` `X2` `Y75` `DN`
+The position is a sequence of 4 packages containing the following strings: `X2` `Y75` `DN`
 which would mean that the rover will start from the coordinates (2,75) facing North.
 
 The sequence of commands will be an indefined number of packages of this form: `M5` `1F` `2L` `3F` `4R` `5F`
